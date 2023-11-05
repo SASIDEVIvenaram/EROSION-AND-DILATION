@@ -25,6 +25,8 @@ Use cv2.waitKey(0) to wait for a key press indefinitely.
 ## Program:
 
 ``` Python
+### Developed By: SASIDEVI V
+### Register No:  212222230136
 # Import the necessary packages
 
 import cv2
